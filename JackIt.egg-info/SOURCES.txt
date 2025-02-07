@@ -5,6 +5,7 @@ JackIt.egg-info/SOURCES.txt
 JackIt.egg-info/dependency_links.txt
 JackIt.egg-info/requires.txt
 JackIt.egg-info/top_level.txt
+bin/jackit
 jackit/__init__.py
 jackit/duckyparser.py
 jackit/keylogger.py
