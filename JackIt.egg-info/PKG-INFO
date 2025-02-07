@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: JackIt
+Version: 0.1.0
+Summary: Exploit framework for MouseJack vulnerability.
+Home-page: https://github.com/insecurityofthings/jackit
+Author: infamy and phikshun
+License: BSD
+Requires-Dist: click==5.1
+Requires-Dist: pyusb==1.0.0
+Requires-Dist: tabulate==0.7.5
+Requires-Dist: six==1.10.0
+Dynamic: author
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
